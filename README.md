@@ -5,3 +5,4 @@ Class : Sem 4 (Computer Engineering)
 Course : RDBMS
 Faculty : Vaibhav Vasani , Pradnya Bhangale
 College : K.J.Somaiya College of Engineering
+[Database.pdf](https://github.com/Mitali41/Mitalis/files/6406176/Database.pdf)
